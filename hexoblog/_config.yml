@@ -9,11 +9,11 @@ description: ''
 keywords: Anri Lombard, UCT, Programming, Blog
 author: Anri Lombard
 language: en
-timezone: ''
+timezone: 'Africa/Johannesburg'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://Anri-Lombard.github.io/Anri-Lombard.github.io
+url: https://github.com/Anri-Lombard/Anri-Lombard.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -33,7 +33,7 @@ skip_render:
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
-titlecase: true # Transform title into titlecase
+titlecase: false # Transform title into titlecase
 external_link:
   enable: true # Open external links in new tab
   field: site # Apply to the whole site
@@ -103,3 +103,5 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
+  repo: https://github.com/Anri-Lombard/Anri-Lombard.github.io
+  branch: main
