@@ -2,6 +2,7 @@
 title: Learning Online
 date: 2022-06-14 10:26:11
 tags: Programming
+categories: Not Nerdy Mathy stuff
 ---
 
 Covid took quite a toll on students when it first showed in 2020 - my matric year, in fact; but left us experienced in life online. We had to work online, study thoroughly with only laptops as our guides, and over time learn to enjoy the long emails and zoom hangouts; a few, myself included, learned to study independently with the trove of resources online.
@@ -13,21 +14,21 @@ I’m no expert, but over time I’ll be good enough to say this was my advice a
 
 Since all advice is personal, let my experience be a demonstration:
 ### 2020:
-{% asset_img 2020coding.png %}
+{% asset_img 2020coding.png My 2020 contributions to GitHub %}
 An insignificant little dot, but a significant step; actually, this was the week I decided to study computer science instead of medicine.
 
 ### 2021
 I started learning HTML, CSS, and Javascript during my final exam week and distinctly remember asking for an online course as a Christman present; my first online course: The Complete Web Developer Bootcamp. It took me about 9 months to finish it, but let's use the excuse that I was "spacially retrieving," although freshman year was to blame.
-{% asset_img WebDevUdemy2021.jpg %}
+{% asset_img WebDevUdemy2021.jpg Udemy certificate of completion %}
 
 This year I built a few personal websites and scoped the landscape of what computer science has to offer; I learned about Competitive Programming, Github, and Software Internships - the three pillars of a college CS student. I wasn't good at CP, and it takes dedication to become great - so I decided to focus on my strengths of reading and writing to do research.
 
 This led me to Machine Learning and Coursera:
-{% asset_img CourseraDeepLearning.png %}
+{% asset_img CourseraDeepLearning.png Coursera certificate of completion %}
 My freshman year of college was entirely online and hence not interesting; I had time to stimulate my mind with online courses through Coursera that were virtually free with engaging communities and fascinating teachers.
 
 I started liking coding more and gained some traction. Over weekends and holidays, I could set school work aside and work on personal projects; It is now a long way since that first green dot on 31 December 2020.
-{% asset_img 2021coding.png %}
+{% asset_img 2021coding.png My 2021 contributions to GitHub %}
 
 ### 2022
 I'm still only a beginner, even after all this time. I still make mistakes and find my Ivy League friends admirable for starting so young; I still practice the basics, but I'm more aware of all that I don't know, which satisfies me.

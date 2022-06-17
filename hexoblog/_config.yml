@@ -13,7 +13,7 @@ timezone: 'Africa/Johannesburg'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://github.com/Anri-Lombard/Anri-Lombard.github.io
+url: https://Anri-Lombard.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -55,6 +55,11 @@ prismjs:
   preprocess: true
   line_number: true
   tab_replace: ''
+  
+# add caption for iamges
+image_caption:
+  enable: true #false to disable
+  class_name: #if you wanna customize the style for the caption,you can assign a class name, default is 'image-caption'
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')

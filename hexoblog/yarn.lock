@@ -660,6 +660,11 @@
   dependencies:
     "sprintf-js" "^1.0.3"
 
+"hexo-image-caption@^0.1.1":
+  "integrity" "sha512-1XOWdYhzAP41CRgi1S/7ZBpNrT/muuzLjX/ku3yQdOMtctL/wJ8xVfrlGfvm6YpjvnG04XK+XKwMRK2ihwRdSw=="
+  "resolved" "https://registry.npmjs.org/hexo-image-caption/-/hexo-image-caption-0.1.1.tgz"
+  "version" "0.1.1"
+
 "hexo-log@^2.0.0":
   "integrity" "sha512-U7zdDae74pXcyhQEyNmpJdq3UI6zWKxQ7/zLoMr/d3CBRdIfB5yO8DWqKUnewfibYv0gODyTWUIhxQDWuwloow=="
   "resolved" "https://registry.npmjs.org/hexo-log/-/hexo-log-2.0.0.tgz"
