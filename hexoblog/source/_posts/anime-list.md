@@ -31,6 +31,8 @@ These are great:
 {% asset_img aWhiskerAway.jpg %}
 9.  **Demon Slayer the Movie: Mugen Train** - also the highest grossing anime movie in history.
 {% asset_img demonSlayer.jpg %}
+10. **Howl's Moving Castle**
+{% asset_img howlsMovingCastle.webp %}
 
 This concludes my trip down the anime rabbit hole. I learned more from it than from most books, but I am not overstaying my welcome.
 
