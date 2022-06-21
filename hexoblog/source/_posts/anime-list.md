@@ -33,6 +33,8 @@ These are great:
 {% asset_img demonSlayer.jpg %}
 10. **Howl's Moving Castle**
 {% asset_img howlsMovingCastle.webp %}
+11. **Ponyo**
+{% asset_img Ponyo.webp %}
 
 This concludes my trip down the anime rabbit hole. I learned more from it than from most books, but I am not overstaying my welcome.
 
