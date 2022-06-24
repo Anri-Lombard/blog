@@ -17,6 +17,7 @@ Build a data-tagging application.
 Usually I code alone, but we decided to get another member or two on board since startups need future employees. Lucky for me we got a good friend from school - she and I coincidentally did the same statistics class I mentioned in a past blog, so we'll be hypothesisinginging... and stuff.
 
 We got another potential friend if he chooses to take on the challenge.
+**UPDATE:** nah, just us 2.
 
 Naturally, one starts a cult. I mean a group:
 {% asset_img WhatsappGroup.png WhatsApp group %}
