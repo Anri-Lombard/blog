@@ -1,7 +1,7 @@
 ---
 title: Book List
 date: 2022-06-18 16:03:43
-tags: [Books]
+tags: [Literature]
 categories: [Not Nerdy Mathy stuff]
 ---
 
@@ -11,7 +11,8 @@ Some days it's my favorite thing to do, others it's a real obstacle to doing imp
 
 <!-- more -->
 
-# Non-fiction
+# In General
+## Non-fiction
 1. **Atomic Habits** by James Clear
 2. **Deep Work** by Cal Newport
 3. **Indistractable** by Nir Eyal
@@ -24,7 +25,7 @@ Some days it's my favorite thing to do, others it's a real obstacle to doing imp
 10. **Attached** by Amir Levine and Rachel S. F. Heller
 
 
-# Fiction
+## Fiction
 1. **The Courage to be Disliked** by Fumitake Koga and Ichiro Kishimi
 2. **Almond** by Sohn Won-pyung
 3. **The Alchemist** by Paulo Coelho
@@ -37,4 +38,12 @@ Some days it's my favorite thing to do, others it's a real obstacle to doing imp
 10. **To Kill a Mockingbird** by Harper Lee
 
 
-I am bound to miss some diamonds, but here are 20 that I found influential.
+# Specific
+Some topics I go bonkers about thinking. Self-help and literary mastery, not so much; AI and Mars... oh boy!
+## AI
+No need to get bogged down by details to understand AI's impact. Kai-fu Lee masterfully dissolves misconceptions.
+1. **AI Super-powers** by Kai-fu Lee
+2. **AI 2041** by Kai-fu Lee
+
+
+Thank you Enheduanna for giving us strange pages with letters on them!
