@@ -31,9 +31,35 @@ It turns out we need to learn Docker since I've never used it.
 Figma is useful to get some ideas out on how this thing needs to look. Looking funky for now.
 {% asset_img Figma.png Not a lotta style TBH %}
 
-## Starting the oven
+## Starting out
 Honestly, at least the back-end is working
 {% asset_img StartOfApp.png Not all diamonds are pretty %}
 
 
 I like the team thing and learning to use the MERN stack since most companies like the skillset.
+
+## Progressing
+{% blockquote CEO, SprintHive%}
+"Nobody likes a hero developer. You need to work with the team."
+{% endblockquote %}
+
+This feedback stung, but it was some of the best advice I've ever gotten. Up until this meeting, I was coding the entire back-end, assisting in the front-end, and doing the communication as the team leader. My team felt pressured and had some "imposter syndrome" that went under my radar. For them, the academic environment of theory-based learning felt way more comfortable than the practical coding I'm used to, and I was selfish to speed through building the application rather than allowing them to learn, too.
+
+Then we got a better goal: **Prioritize group learning**.
+
+Our changes made development slower, but more fun:
+1. Do pair programming with live share on VSCode
+2. Keep a Google Meet meeting running for screen share and to share feedback
+3. Learn Github branching so everyone could push their code as they need
+
+These were pivotal changes, especially to GitHub collaboration. i.e:
+
+{% asset_img githubThen.png How our commit history looked - notice just one branch, namely mine %}
+
+{% asset_img githubNow.png How our commit history looks now %}
+
+I'm proud that both team members can take over from me with the application if I was gone, since they have learned most of what I could teach. This taught me that great leadership is very hard and not to be mistaken for the misconception that leaders are lone wolves.
+
+{% asset_img currentApp.png The quality of our teamwork definitely shows in the app %}
+
+
