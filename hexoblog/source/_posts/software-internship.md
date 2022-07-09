@@ -58,7 +58,7 @@ These were pivotal changes, especially to GitHub collaboration. i.e:
 
 {% asset_img githubNow.png How our commit history looks now %}
 
-I'm proud that both team members can take over from me with the application if I was gone, since they have learned most of what I could teach. This taught me that great leadership is very hard and not to be mistaken for the misconception that leaders are lone wolves.
+I'm proud that both team members can take over from me with the application if I was gone since they have learned most of what I could teach. This taught me that great leadership is very hard and not to be mistaken for the misconception that leaders are lone wolves.
 
 {% asset_img currentApp.png The quality of our teamwork definitely shows in the app %}
 
