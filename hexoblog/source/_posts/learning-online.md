@@ -1,7 +1,7 @@
 ---
 title: Learning Online
 date: 2022-06-14 10:26:11
-tags: Programming
+tags: [philosophy]
 categories: Not Nerdy Mathy stuff
 ---
 

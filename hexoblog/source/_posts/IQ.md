@@ -1,7 +1,7 @@
 ---
 title: IQ
 date: 2022-06-20 11:08:19
-tags: [Random]
+tags: [humor]
 categories: Not Nerdy Mathy stuff
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Keurboom Park
 date: 2022-06-24 12:24:27
-tags: [adventure, nature]
+tags: [adventure]
 categories: Not Nerdy Mathy stuff
 ---
 

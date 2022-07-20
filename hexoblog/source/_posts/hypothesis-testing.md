@@ -1,7 +1,7 @@
 ---
 title: Hypothesis Testing
 date: 2022-06-17 08:35:07
-tags: [Statistics, Math]
+tags: [math, humor]
 categories: Nerdy Mathy stuff
 ---
 

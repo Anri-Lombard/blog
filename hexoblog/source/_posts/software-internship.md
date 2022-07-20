@@ -1,23 +1,24 @@
 ---
 title: Software Internship
 date: 2022-06-20 19:26:21
-tags: [Programming]
+tags: [programming]
 categories: Not Nerdy Mathy stuff
 ---
 
-I recently started an internship at a startup. Boy, it's fun! But like a startup, this blog is a work in progress until we finish the internship.
+I did an internship this past holiday at a start-up. Pure fun, I tell ya; but besides the programming challenges and debugging marathons it gave a glimpse into how personalities merge, how leadership can galvanize a team's resolve to keep at a problem through irritating bouts of being stuck, and gave me a full view of how I treat people with massively different perspectives than myself.
 
 <!--more-->
 
 # Goal
 Build a data-tagging application.
 
-# How we're doing it
+# How we did it
 ## Yes, I said WE
-Usually I code alone, but we decided to get another member or two on board since startups need future employees. Lucky for me we got a good friend from school - she and I coincidentally did the same statistics class I mentioned in a past blog, so we'll be hypothesisinginging... and stuff.
+Usually, I code alone, but we decided to get another member or two on board since startups need future employees. Lucky for me we got two friends from uni I've been curious about.
 
-We got another potential friend if he chooses to take on the challenge.
-**UPDATE:** we're 3!
+*Friend 1:* We'll call her A. From the get-go, she had a vibrant enthusiasm and proactive resolve to learn and build alongside me, even with our palpable coding skill differences.
+
+*Friend 2:* We'll call him B. He is obviously reserved and utters few words, and can easily be written off as lazy. This will be a mistake, however; his silence was supplemented with his thorough and logical approach to solving problems, as well as his nifty ability to learn crude concepts fast.
 
 Naturally, one starts a cult. I mean a group:
 {% asset_img WhatsappGroup.png WhatsApp group %}
@@ -32,17 +33,18 @@ Figma is useful to get some ideas out on how this thing needs to look. Looking f
 {% asset_img Figma.png Not a lotta style TBH %}
 
 ## Starting out
-Honestly, at least the back-end is working
+Obviously, we prioritized the backend first to get logic going... yes, the ugly app was all part of the plan.
 {% asset_img StartOfApp.png Not all diamonds are pretty %}
 
+After this, I became highly uncomfortable. I knew if my skills were put to the test, and I was allowed to be a lone ranger, this app would be built and functional within a few days. But having a team forced me to rethink and include them.
 
-I like the team thing and learning to use the MERN stack since most companies like the skillset.
+Little did I know that this will leave me wiser with lessons about leadership my grand plan did not include.
 
 ## Progressing
 {% blockquote CEO, SprintHive%}
 "Nobody likes a hero developer. You need to work with the team."
 {% endblockquote %}
-
+<br />
 This feedback stung, but it was some of the best advice I've ever gotten. Up until this meeting, I was coding the entire back-end, assisting in the front-end, and doing the communication as the team leader. My team felt pressured and had some "imposter syndrome" that went under my radar. For them, the academic environment of theory-based learning felt way more comfortable than the practical coding I'm used to, and I was selfish to speed through building the application rather than allowing them to learn, too.
 
 Then we got a better goal: **Prioritize group learning**.
@@ -61,5 +63,10 @@ These were pivotal changes, especially to GitHub collaboration. i.e:
 I'm proud that both team members can take over from me with the application if I was gone since they have learned most of what I could teach. This taught me that great leadership is very hard and not to be mistaken for the misconception that leaders are lone wolves.
 
 {% asset_img currentApp.png The quality of our teamwork definitely shows in the app %}
+
+<br />
+<br />
+
+**Internship In Progress..**
 
 

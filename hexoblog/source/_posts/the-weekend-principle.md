@@ -1,7 +1,7 @@
 ---
 title: The Weekend Project Principle
 date: 2022-07-09 13:59:11
-tags: [Programming]
+tags: [programming]
 ---
 
 So, I'm lucky to have a few machine learning and web development certificates, but I've noticed a trend recently that there's a far better strategy to follow. Perhaps it's best to avoid my mistakes.
