@@ -44,7 +44,7 @@ Writing this review after some time, I still see why it is my top pick. This fil
 
 *Favorite Character:* Shoko Nishimiya
 - Shoko is unreasonably strong-willed and kind. Given her situation, she still tries to fight the injustice thrust upon her by her condition attracting undeserved bullying.
-- Shoko made some unfathonable decisions during the film, helping me to rethink how much empathy even the best of people need, and how much there is hidden that we'll never know about our favorite people.
+- Shoko made some unfathomable decisions during the film, helping me to rethink how much empathy even the best of people need, and how much there is hidden that we'll never know about our favorite people.
 
 This film was a lesson in psychology.
 
@@ -54,7 +54,7 @@ This film was a lesson in psychology.
 {% asset_img yourName.jpg %}
 
 *Favorite Character:* Taki Tachibana
-- Taki and Mitsuha are inseparable characters, although Taki is a male making him more relatable. His luxurious lifestyle is in deep contrast with his counterpart's; his ever-increasing love for the body he switches to every other day, along with his concluding passion to connect with her made a great portrayal of love's work.
+- Taki and Mitsuha are inseparable characters, although Taki is a male making him more relatable. His luxurious lifestyle is in deep contrast with his counterparts; his ever-increasing love for the body he switches to every other day, along with his concluding passion to connect with her made a great portrayal of love's work.
 
 <br />
 
@@ -130,7 +130,7 @@ This film is too light-hearted to have felt deep emotions but supplemented it th
 <br />
 <br />
 
-After a brief detour into unexplored terrain, I've converted into a lover of art outside my domain; Anime is masked as childish play, but hidden within lie sophisticated questions of meaning and togetherness, portrayed through visuals, in-tune music, and a storyline to wrap it neatly in a memorable package. As a mathematical and literary minded student this has given me a theatrical argument that the deepest depths aren't confined to a specific intellectually-praised, dopamine-deficient medium, but can be hidden between the colors and music that artists paint in short bursts called Anime.
+After a brief detour into unexplored terrain, I've converted into a lover of art outside my domain; Anime is masked as childish play, but hidden within lie sophisticated questions of meaning and togetherness, portrayed through visuals, in-tune music, and a storyline to wrap it neatly in a memorable package. As a mathematical and literary-minded student, this has given me a theatrical argument that the deepest depths aren't confined to a specific intellectually-praised, dopamine-deficient medium, but can be hidden between the colors and music that artists paint in short bursts called Anime.
 
 
 

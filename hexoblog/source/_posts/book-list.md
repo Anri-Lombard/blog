@@ -14,7 +14,6 @@ Some days it's my favorite thing to do, others it's a real obstacle to doing imp
 # In General
 ## Non-fiction
 1. **Atomic Habits** by James Clear
-    James makes a 
 2. **Deep Work** by Cal Newport
 3. **Indistractable** by Nir Eyal
 4. **Factfulness** by Anna Rosling Rönnlund, Hans Rosling, and Ola Rosling
