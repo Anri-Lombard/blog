@@ -124,7 +124,7 @@ This film is too light-hearted to have felt deep emotions but supplemented it th
 {% asset_img Ponyo.webp %}
 
 *Favorite Character:* Ponyo
-- This superficially childish film cut deep, into topics of true love and companionship, adventure and childish honesty; the untainted curiosity that both Ponyo and Sôsuke has toward each other, with a glimmer of magic in the mix, made it all more worthwhile to see this film through.
+- This superficially childish film cut deep, into topics of true love and companionship, adventure and childish honesty; the untainted curiosity that both Ponyo and Sôsuke have toward each other, with a glimmer of magic in the mix, made it all more worthwhile to see this film through.
 - Critically, the film concludes that there are sacrifices, often harsh ones, that are needed for love to bloom, and that these sacrifices must be made by will - not coercion towards or away from, but a pure choice of love is the ultimate individual choice that can be made.
 
 <br />
