@@ -38,16 +38,4 @@ Some days it's my favorite thing to do, others it's a real obstacle to doing imp
 10. **To Kill a Mockingbird** by Harper Lee
 
 
-# Specific
-Some topics I go bonkers about thinking. Self-help and literary mastery, not so much; AI and Mars... oh boy!
-## AI
-No need to get bogged down by details to understand AI's impact. Kai-fu Lee masterfully dissolves misconceptions.
-1. **AI Super-powers** by Kai-fu Lee
-2. **AI 2041** by Kai-fu Lee
-
-## Global Warming
-Bill Gates has become a controversial character, but I am yet to buy into all the stories and avoid his reputation as a great leader. If you are a college student, this one is free online!
-1. **How to Avoid a Climate Disaster** by Bill Gates
-
-
 Thank you Enheduanna for giving us strange pages with letters on them!
